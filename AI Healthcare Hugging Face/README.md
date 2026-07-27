@@ -67,13 +67,12 @@ The chatbot can:
 ```text
 AI-Healthcare-Assistant/
 │
-├── AI_Healthcare_Assistant.ipynb
+├── Chatbot.ipynb
+├── Model_comparision.ipynb
+├── Prompt_Engg_Assignment.ipynb
+├── AI Healthcare Assistant using Hugging Face and Prompt Engineering.pdf
 ├── README.md
-├── requirements.txt
-└── screenshots/
-    ├── chatbot.png
-    ├── model_comparison.png
-    └── output_examples.png
+└── screenshots
 ```
 
 ---
